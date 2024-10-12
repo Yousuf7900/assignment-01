@@ -238,3 +238,6 @@ footer > div{
     flex-direction: column;
     gap: 25px;
 }
+.common-class div a{
+    color: #0D1321;
+}
