@@ -150,6 +150,7 @@ header{
 }
 .language-container a{
     color: #0D1321;
+    font-weight: 700;
 }
 .css{
     background-color: rgba(0, 76, 232, 0.05);
@@ -240,4 +241,5 @@ footer > div{
 }
 .common-class div a{
     color: #0D1321;
+    font-weight: 700;
 }
